@@ -18,7 +18,7 @@ const AddUser: React.FC<AddUserProps> = ({ addUser }) => {
 
   return (
     <div>
-      <h2 className="text-xl font-semibold mb-4">Benutzer hinzufügen</h2>
+      <h2 className="text-xl font-semibold mb-4">Mitglied hinzufügen</h2>
       <form onSubmit={handleSubmit} className="flex items-center">
         <input
           type="text"
