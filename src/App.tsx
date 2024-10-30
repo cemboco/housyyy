@@ -5,7 +5,7 @@ import Messages from './components/Messages'
 import PointSystem from './components/PointSystem'
 import UserProfile from './components/UserProfile'
 import AddUser from './components/AddUser'
-import WeeklyLeaderboard from './components/WeeklyLeaderboard'
+import WeeklyLeaderboard from './components/WeeklyLeaderboard´
 
 interface Task {
   id: number
